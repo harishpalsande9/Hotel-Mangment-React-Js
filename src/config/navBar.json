@@ -1,0 +1,8 @@
+{
+  "menu": [
+    { "name": "Front Desk", "path": "/front-desk" },
+    { "name": "CRM", "path": "/CRM" },
+    { "name": "Back Office", "path": "/back-office" },
+    { "name": "Masters", "path": "/masters" }
+  ]
+}
